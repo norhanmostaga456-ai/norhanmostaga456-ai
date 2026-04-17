@@ -1,7 +1,14 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm Nourhan Mostafa Hassan
+</h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
-<br>
+<h3 align="center">
+  Data Scientist | Machine Learning Engineer 🤖📊
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Enthusiast;Machine+Learning+Engineer;AI+Lover;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 # Hi there 👋 I'm Nourhan Mostafa Hassan  
 
