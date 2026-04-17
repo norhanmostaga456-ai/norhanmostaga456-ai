@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Data Scientist | Machine Learning Engineer 🤖📊
+  Data Scientist Engineer| Machine Learning Engineer 🤖📊
 </h3>
 
 <p align="center">
